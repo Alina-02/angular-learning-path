@@ -13,7 +13,7 @@ Begginer Learning Path Progress
 
 | Course                         | Progress                          | Projects Links |
 | ------------------------------ | --------------------------------- | -------------- |
-| Angular 17+ Fundamentals       | ![0%](https://progress-bar.xyz00) | [Projects]()   |
+| Angular 17+ Fundamentals       | ![0%](https://progress-bar.xyz/0) | [Projects]()   |
 | TypeScript 5+ Fundamentals, v4 | ![0%](https://progress-bar.xyz/0) | [Project]()    |
 | Production-Grade Angular       | ![0%](https://progress-bar.xyz/0) | [Exercises]()  |
 
