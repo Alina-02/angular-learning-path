@@ -7,7 +7,7 @@ https://frontendmasters.com/learn/angular/
 
 Begginer Learning Path Progress
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 5%
 
 ## 📚 Frontend Masters Angular Path Progress
 
