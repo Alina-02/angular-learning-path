@@ -9,12 +9,14 @@ import { RouterOutlet } from '@angular/router';
   template: `
     <h1>If you are reading this...</h1>
     <p>Things have worked out well! 🎉</p>
-    <ol class="list-style-type">
-      <li>Stormlight Archive</li>
-      <li>How to train your dragon</li>
-      <li>Stardew Valley</li>
+    <ol>
+      <li>Stormlight Archive - Brandon Sanderson</li>
+      <li>How to train your dragon - Dreamworks</li>
+      <li>Manchild - Sabrina Carpenter</li>
     </ol>
   `,
-  styles: `list-style-type: upper-roman;`,
+  styles: `
+  ol{list-style-type: upper-roman;}
+  `,
 })
 export class AppComponent {}
